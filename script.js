@@ -50,6 +50,6 @@ let getMovie = () => {
         result.innerHTML = `<h3 class="msg">Error Occured</h3>`;
       });
   }
-};b,gukldtuldcgujlf;ui
+};
 searchBtn.addEventListener("click", getMovie);
 window.addEventListener("load", getMovie);
